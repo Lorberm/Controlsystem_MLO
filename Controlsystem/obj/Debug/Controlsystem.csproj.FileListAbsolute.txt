@@ -1,0 +1,35 @@
+d:\documents\visual studio 2017\Projects\Controlsystem\Controlsystem\bin\Debug\Controlsystem.exe.config
+d:\documents\visual studio 2017\Projects\Controlsystem\Controlsystem\bin\Debug\Controlsystem.exe
+d:\documents\visual studio 2017\Projects\Controlsystem\Controlsystem\bin\Debug\Controlsystem.pdb
+d:\documents\visual studio 2017\Projects\Controlsystem\Controlsystem\obj\Debug\Controlsystem.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\Controlsystem\Controlsystem\obj\Debug\Controlsystem.Form1.resources
+d:\documents\visual studio 2017\Projects\Controlsystem\Controlsystem\obj\Debug\Controlsystem.Properties.Resources.resources
+d:\documents\visual studio 2017\Projects\Controlsystem\Controlsystem\obj\Debug\Controlsystem.csproj.GenerateResource.Cache
+d:\documents\visual studio 2017\Projects\Controlsystem\Controlsystem\obj\Debug\Controlsystem.exe
+d:\documents\visual studio 2017\Projects\Controlsystem\Controlsystem\obj\Debug\Controlsystem.pdb
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\bin\Debug\Controlsystem_MLO.exe.config
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\bin\Debug\Controlsystem_MLO.exe
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\bin\Debug\Controlsystem_MLO.pdb
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\obj\Debug\Controlsystem.csprojResolveAssemblyReference.cache
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\obj\Debug\Controlsystem.Form1.resources
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\obj\Debug\Controlsystem.Properties.Resources.resources
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\obj\Debug\Controlsystem.csproj.GenerateResource.Cache
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\obj\Debug\Controlsystem_MLO.exe
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\obj\Debug\Controlsystem_MLO.pdb
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\bin\Debug\Controlsystem_MLO.exe.manifest
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\bin\Debug\Controlsystem_MLO.application
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\obj\Debug\Controlsystem_MLO.exe.manifest
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\Controlsystem\obj\Debug\Controlsystem_MLO.application
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\bin\Debug\Controlsystem_MLO.exe.config
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\bin\Debug\Controlsystem_MLO.exe.manifest
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\bin\Debug\Controlsystem_MLO.application
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\bin\Debug\Controlsystem_MLO.exe
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\bin\Debug\Controlsystem_MLO.pdb
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\obj\Debug\Controlsystem.csprojResolveAssemblyReference.cache
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\obj\Debug\Controlsystem.Form1.resources
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\obj\Debug\Controlsystem.Properties.Resources.resources
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\obj\Debug\Controlsystem.csproj.GenerateResource.Cache
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\obj\Debug\Controlsystem_MLO.exe.manifest
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\obj\Debug\Controlsystem_MLO.application
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\obj\Debug\Controlsystem_MLO.exe
+F:\Work\Berufsschule (4. Klasse)\Project_4th grade\C#_Controlsystem\Controlsystem\obj\Debug\Controlsystem_MLO.pdb
