@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics.Eventing;
 using System.Diagnostics;
-using System.Security.Prinicipal;
+using System.Security.Principal;
 
 namespace Controlsystem
 {
@@ -21,7 +21,7 @@ namespace Controlsystem
             WindowsPrincipal principal = new WindowsPrincipal(identity);
             if (!principal.IsInRole(WindowsBuiltInRole.Administrator))
             {
-                MessageBox.Show("MLO_Control not running as an admin! You might not be able to successfully use some functions, i.e. the Net-Feature");
+                MessageBox.Show("MLO_Control not running as an admin! You might not be able to use some functions, i.e. the Net-Feature");
             }
 
             Application.Run(new Form1());
